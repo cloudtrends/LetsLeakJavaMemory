@@ -1,0 +1,10 @@
+
+
+
+java  -Xms1k -Xmx4097k -XX:NewSize=192k -jar small.jar
+
+>Error occurred during initialization of VM
+>Too small initial heap
+
+
+
